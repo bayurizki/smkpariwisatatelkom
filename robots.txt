@@ -1,0 +1,27 @@
+User-agent: Googlebot
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*?*
+Disallow: /*?
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: duggmirror
+Disallow: /
+
+User-agent: *
+Disallow: /protected/config/*
+Disallow: /protected/model/*
+Disallow: /protected/controller/*
+Disallow: /protected/extensions/*
+Disallow: /protected/data/*
+Disallow: /protected/runtime/*
+Disallow: /protected/tests/*
+Disallow: /protected/extensions/*
+Disallow: /protected/yiic.*
+
+
+Sitemap: http://smkpariwisatatelkom.sch.id/byrzk512xoxo_abc12.xml
